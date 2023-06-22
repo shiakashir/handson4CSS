@@ -1,0 +1,70 @@
+.container1{
+border: 1px solid red;
+width: auto;
+
+height: 270px;
+background-color: aquamarine;
+position: relative;
+top: 40px;
+display: grid;
+grid-template-rows: 133px 133px 133px ;
+grid-template-columns: 133px 133px 133px;
+row-gap: 12px;
+column-gap: 339px;
+text-align: center;
+
+}
+
+.iteam{
+    background-color: rgb(226, 160, 18) ;
+    height: 100px;
+    width: 400px;
+    border: 1px solid;
+    border-radius: 10px;
+}
+.item4{
+    position: relative;
+left: 480px;
+ }
+
+#box{
+    border: 2px solid lightgreen;
+height: 250px;
+background-image: radial-gradient(blue 30%,lightgreen);
+
+display: grid;
+    grid-template-columns:  250px 250px 250px 250px;
+align-items: center;
+    position: relative;
+    top: 100px;
+}
+.item5{
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+    position: relative;
+    left: 80px;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: underline;
+    line-height: 30px;
+    color: rgb(131, 12, 12);
+    font-weight: bold;
+
+}
+.best{
+    border: 2px none;
+    width: 100%;
+    height: 45px;
+    position: relative;
+    top: 150px;
+    background-color: rgb(223, 11, 11);
+}
+.place{
+    color: white;
+    text-align: center;
+}
+.list1{
+    text-decoration: underline;
+    color: white;
+}
